@@ -1,0 +1,15 @@
+C:\Users\profi\Documents\Git Hub\Sharp_14-10-2022_Forum_Class_Magazin\bin\Debug\net6.0\Sharp_14-10-2022_Forum_Class_Magazin.exe
+C:\Users\profi\Documents\Git Hub\Sharp_14-10-2022_Forum_Class_Magazin\bin\Debug\net6.0\Sharp_14-10-2022_Forum_Class_Magazin.deps.json
+C:\Users\profi\Documents\Git Hub\Sharp_14-10-2022_Forum_Class_Magazin\bin\Debug\net6.0\Sharp_14-10-2022_Forum_Class_Magazin.runtimeconfig.json
+C:\Users\profi\Documents\Git Hub\Sharp_14-10-2022_Forum_Class_Magazin\bin\Debug\net6.0\Sharp_14-10-2022_Forum_Class_Magazin.dll
+C:\Users\profi\Documents\Git Hub\Sharp_14-10-2022_Forum_Class_Magazin\bin\Debug\net6.0\Sharp_14-10-2022_Forum_Class_Magazin.pdb
+C:\Users\profi\Documents\Git Hub\Sharp_14-10-2022_Forum_Class_Magazin\obj\Debug\net6.0\Sharp_14-10-2022_Forum_Class_Magazin.csproj.AssemblyReference.cache
+C:\Users\profi\Documents\Git Hub\Sharp_14-10-2022_Forum_Class_Magazin\obj\Debug\net6.0\Sharp_14-10-2022_Forum_Class_Magazin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\profi\Documents\Git Hub\Sharp_14-10-2022_Forum_Class_Magazin\obj\Debug\net6.0\Sharp_14-10-2022_Forum_Class_Magazin.AssemblyInfoInputs.cache
+C:\Users\profi\Documents\Git Hub\Sharp_14-10-2022_Forum_Class_Magazin\obj\Debug\net6.0\Sharp_14-10-2022_Forum_Class_Magazin.AssemblyInfo.cs
+C:\Users\profi\Documents\Git Hub\Sharp_14-10-2022_Forum_Class_Magazin\obj\Debug\net6.0\Sharp_14-10-2022_Forum_Class_Magazin.csproj.CoreCompileInputs.cache
+C:\Users\profi\Documents\Git Hub\Sharp_14-10-2022_Forum_Class_Magazin\obj\Debug\net6.0\Sharp_14-10-2022_Forum_Class_Magazin.dll
+C:\Users\profi\Documents\Git Hub\Sharp_14-10-2022_Forum_Class_Magazin\obj\Debug\net6.0\refint\Sharp_14-10-2022_Forum_Class_Magazin.dll
+C:\Users\profi\Documents\Git Hub\Sharp_14-10-2022_Forum_Class_Magazin\obj\Debug\net6.0\Sharp_14-10-2022_Forum_Class_Magazin.pdb
+C:\Users\profi\Documents\Git Hub\Sharp_14-10-2022_Forum_Class_Magazin\obj\Debug\net6.0\Sharp_14-10-2022_Forum_Class_Magazin.genruntimeconfig.cache
+C:\Users\profi\Documents\Git Hub\Sharp_14-10-2022_Forum_Class_Magazin\obj\Debug\net6.0\ref\Sharp_14-10-2022_Forum_Class_Magazin.dll
