@@ -11,8 +11,8 @@ class Magazin
     private string _MagazinName; // Название магазина
     private string _AddressName; // Адрес магазина
     public product ios; // структура
-    static string tel_num = "8 901 245 33 22";
-    static string email_num = "magazin@yandex.ru";
+    public static string tel_num = "8 901 245 33 22";
+    public static string email_num = "magazin@yandex.ru";
 
     public Magazin() //Конструктор по
                      //умолчанию
