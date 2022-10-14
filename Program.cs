@@ -37,6 +37,7 @@ class Program
     static void Main(string[] args)
     {
         Magazin myMagazin = new Magazin();
+
         myMagazin.PrintState();
 
     }
